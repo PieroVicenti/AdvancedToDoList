@@ -5,3 +5,7 @@
 ## Programming languages 
 
 React
+
+## Project's purpose
+
+Testing React's features 
