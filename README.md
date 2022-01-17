@@ -8,4 +8,4 @@ React
 
 ## Project's purpose
 
-Testing React's features 
+Testing React's features & scalability
