@@ -14,3 +14,8 @@ React
 ## Project's purpose
 
 Testing React's features & scalability
+
+## Features
+- Add items in the list
+- Edit item
+- Delete item
